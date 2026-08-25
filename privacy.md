@@ -1,11 +1,11 @@
 ---
 permalink: /privacy/
 ---
-# GoodFoods Privacy Policy
+# GoodEats Privacy Policy
 
 *Last updated: August 24, 2026*
 
-GoodFoods is a personal place tracker. Your data belongs to you, and the app is built so that we never see it.
+GoodEats is a personal place tracker. Your data belongs to you, and the app is built so that we never see it.
 
 ## What the app stores
 

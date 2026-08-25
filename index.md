@@ -1,4 +1,4 @@
-# GoodFoods
+# GoodEats
 
 A private place tracker for iOS: keep **Been** and **Want to go** lists for restaurants, cafes, parks — anywhere — with 1–5 star ratings, notes, dish ratings, and a map of everything you've saved.
 
@@ -10,4 +10,4 @@ Questions or problems? Email **gorish1995@gmail.com** — include your iOS versi
 
 ## Privacy
 
-Read the [GoodFoods Privacy Policy](privacy).
+Read the [GoodEats Privacy Policy](privacy).
