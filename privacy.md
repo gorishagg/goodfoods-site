@@ -1,0 +1,42 @@
+---
+permalink: /privacy/
+---
+# GoodFoods Privacy Policy
+
+*Last updated: August 24, 2026*
+
+GoodFoods is a personal place tracker. Your data belongs to you, and the app is built so that we never see it.
+
+## What the app stores
+
+Places you save, your ratings, notes, tags, dishes, visits, and menu suggestions you scan. All of it is stored **on your device** and, if you're signed into iCloud, in **your private iCloud database**, which only you can access. We operate no servers and cannot read your data.
+
+## What the app does NOT do
+
+- No accounts. There is nothing to sign up for.
+- No analytics, tracking, or advertising SDKs.
+- No data is sent to us or to any third party.
+
+## Location
+
+If you allow location access, it is used only to suggest nearby places while searching and to show your position on the map. Your location is never stored or transmitted by the app.
+
+## Camera and photos
+
+Menu photos you scan are processed entirely on your device using Apple's built-in text recognition. Photos are not stored by the app and never leave your device.
+
+## Apple services
+
+Place search uses Apple Maps (MapKit), and sync uses Apple iCloud (CloudKit). Your use of those services is governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+
+## Your data, your control
+
+You can export all of your data as JSON from Settings at any time, and delete everything by deleting the app (and its iCloud data via iOS Settings → Apple ID → iCloud → Manage Storage).
+
+## Contact
+
+Questions: gorish1995@gmail.com
+
+## Changes
+
+If this policy changes, the updated version will be posted at this URL with a new date.
