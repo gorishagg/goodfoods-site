@@ -3,19 +3,19 @@ permalink: /privacy/
 ---
 # GoodEats Privacy Policy
 
-*Last updated: August 24, 2026*
+*Last updated: August 31, 2026*
 
 GoodEats is a personal place tracker. Your data belongs to you, and the app is built so that we never see it.
 
 ## What the app stores
 
-Places you save, your ratings, notes, tags, dishes, visits, and menu suggestions you scan. All of it is stored **on your device** and, if you're signed into iCloud, in **your private iCloud database**, which only you can access. We operate no servers and cannot read your data.
+Places you save, your ratings, notes, tags, dishes, visits, and menu suggestions you scan. All of it is stored **on your device** and, if you're signed into iCloud, in **your private iCloud database**, which only you can access. None of it ever touches a server of ours, and we cannot read any of it.
 
 ## What the app does NOT do
 
 - No accounts. There is nothing to sign up for.
 - No analytics, tracking, or advertising SDKs.
-- No data is sent to us or to any third party.
+- None of your data is sent to us or to any third party. The one optional exception, which you control, is the "Send feedback" form in Settings: if you use it, it sends the message you typed, an email address only if you include one, and your app version and device model — used only to read and answer feedback.
 
 ## Location
 
