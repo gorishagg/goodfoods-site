@@ -15,7 +15,7 @@ Places you save, your ratings, notes, tags, dishes, visits, and menu suggestions
 
 - No accounts. There is nothing to sign up for.
 - No analytics, tracking, or advertising SDKs.
-- None of your data is sent to us or to any third party, with two narrow exceptions you control: the optional "Send feedback" form in Settings (sends your message, an email only if you include one, and app/device version — used only to answer you), and expanding Google Maps short links you share into the app (Google sees the link and your IP in that moment, as it would if you opened the link in a browser; nothing from your library is sent).
+- None of your data is sent to us or to any third party, with two narrow exceptions you control: the optional "Send feedback" form in Settings (sends your message, an email only if you include one, and app/device version, used only to answer you), and expanding Google Maps short links you share into the app (Google sees the link and your IP in that moment, as it would if you opened the link in a browser; nothing from your library is sent).
 
 ## Location
 
